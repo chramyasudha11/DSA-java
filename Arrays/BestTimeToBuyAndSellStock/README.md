@@ -37,4 +37,3 @@ This avoids checking all pairs (no nested loops).
 
 ---
 
-## ⏱️ Comp
